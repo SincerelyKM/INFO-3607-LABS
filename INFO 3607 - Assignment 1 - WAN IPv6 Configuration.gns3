@@ -759,16 +759,16 @@
                 "drawing_id": "7942506a-7afc-4f75-b70b-a9dbf8f62152",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"278\" height=\"27\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">### 2001:CAFE:8160:4184:1041  ###</text></svg>",
-                "x": -306,
-                "y": 191,
+                "svg": "<svg height=\"21\" width=\"129\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">### IPv6 Address ###</text></svg>",
+                "x": -180,
+                "y": 190,
                 "z": 2
             },
             {
                 "drawing_id": "8af44788-dbb4-4d6f-9c3f-f2390039b46d",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"274\" height=\"27\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">### 2001:CAFE:8160:4184:1042 ###</text></svg>",
+                "svg": "<svg height=\"21\" width=\"129\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">### IPv6 Address ###</text></svg>",
                 "x": 162,
                 "y": 218,
                 "z": 2
@@ -777,18 +777,18 @@
                 "drawing_id": "01120814-9259-4f84-bb8d-7bd984d5475e",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"242\" height=\"27\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">2001:CAFE:8160:4184:1041::/80</text></svg>",
-                "x": -214,
-                "y": 397,
+                "svg": "<svg height=\"21\" width=\"129\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">### IPv6 Address ###</text></svg>",
+                "x": -165,
+                "y": 395,
                 "z": 2
             },
             {
                 "drawing_id": "b980baf6-1231-442e-928c-27f1e2592681",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"250\" height=\"27\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">2001:CAFE:8160:4184:1042:: / 80</text></svg>",
-                "x": 117,
-                "y": 390,
+                "svg": "<svg height=\"21\" width=\"129\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">### IPv6 Address ###</text></svg>",
+                "x": 203,
+                "y": 401,
                 "z": 2
             }
         ],
@@ -1768,8 +1768,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "d69af3b2-5273-49d2-90a1-df26943fd7b3",
                 "width": 66,
-                "x": -135,
-                "y": 260,
+                "x": -136,
+                "y": 258,
                 "z": 1
             },
             {
@@ -2734,7 +2734,7 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "d69af3b2-5273-49d2-90a1-df26943fd7b3",
                 "width": 66,
-                "x": -113,
+                "x": -114,
                 "y": -126,
                 "z": 1
             },
